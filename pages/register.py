@@ -25,7 +25,6 @@ def register():
         st.sidebar.error('please try again')
 
 
-st.text('Face Recognition')
 picture = st.camera_input("")
 if picture:
     st.image(picture)
