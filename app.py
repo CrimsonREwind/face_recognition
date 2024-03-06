@@ -56,4 +56,3 @@ Feel free to contribute to the project! If you find bugs, have feature requests,
 5. Submit a pull request.
 
 """)
-
